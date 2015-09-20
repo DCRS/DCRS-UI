@@ -1,7 +1,12 @@
 # Modern "Bios"
-When start the computer, this kernel will do the first work like a BIOS does: verifying all components of device.
 
-But this is very different than a BIOS! When finish the verify of hardware, this system will search for operating systems installed in all connected storage devices. Then, this kernel will show an boot-selector screen for selecting OS to run from each storage device, and will run the interface of OS, working as an kernel/runtime. With this, you will easily hibernate OS A and go to OS B, with multi-OS running at the same time!
+
+----------
+# Description #
+
+When start the device, this firmware/runtime/kernel/system will do the first work like a BIOS does: verifying all device's components.
+
+**But this is very different than a BIOS!** When finish the hardware check, this system will search for operating systems installed in all connected storage devices. Then, this kernel will run an single OS installed or show an boot-selector screen for selecting OS to run from each storage device, and will run the interface of OS working as an kernel/runtime. With this, you will easily hibernate OS A and go to OS B, with multi-OS running at the same time! You can know more at SPECS.md file, included in this project.
 
 Yes, this firmware is an kernel/runtime that uses interface in HTML5/CSS/JavaScript and compatible only with modern operating systems compatible with the technology.
 
@@ -9,6 +14,10 @@ How will work modern operating systems compatible with this system? I'ts simple.
 
 You can start understanding an modern OS or making your own at [this project hosted on GitHub](https://github.com/DaniellMesquita/Modern-OS).
 
-> You **is** permited to edit source code for submit changes to project and/or use your own logo for put this firmware in your mainboard/device for free.
+> You **is** permited to edit source code for submit changes to project and/or use your own logo for put this firmware in your mainboard/device for free. Commercial usage of this firmware in your products **is allowed**.
 > 
-> You **isn't** permited to create your own firmware based on the source-code of this project. Learn more at LICENSE.md file, included in the project code.
+> You **isn't** permited to create your own project based on the source-code of this project. Learn more at LICENSE.md file, included in the project code.
+> 
+> All these freedoms/conditions may change in the future and you agree with this when using it.
+
+# Contributing #
