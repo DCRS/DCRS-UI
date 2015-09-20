@@ -1,5 +1,5 @@
 # Modern "Bios"
-When start the computer, this kernel will work like a BIOS does, verifying all components of device.
+When start the computer, this kernel will do the first work like a BIOS does: verifying all components of device.
 
 But this is very different than a BIOS! When finish the verify of hardware, this system will search for operating systems installed in all connected storage devices. Then, this kernel will show an boot-selector screen for selecting OS to run from each storage device, and will run the interface of OS, working as an kernel/runtime. With this, you will easily hibernate OS A and go to OS B, with multi-OS running at the same time!
 
