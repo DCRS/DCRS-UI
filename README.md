@@ -1,4 +1,4 @@
-# Modern "Bios"
+# <img src="/icon.png" align="absmiddle"> Modern "Bios"
 
 
 ----------
