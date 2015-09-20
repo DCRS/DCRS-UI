@@ -6,6 +6,6 @@
 - Show all operating systems in all devices for user selection;
 - Can boot from other device;
 - Work as an runtime for HTML5 modern operating systems;
-- Recognition of an upcomming code-key for open firmware directly from OS;
+- Recognition of an upcomming code-key for open firmware's configuration interface directly from OS;
 - Can run multi-OS at same time and altern between OS;
 - Can work in all possible resolutions, like smartwatchs, smartphones, tablets, notebooks, PCs, Wall Clocks, TVs, etc.
