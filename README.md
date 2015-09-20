@@ -8,3 +8,7 @@ Yes, this firmware is an kernel that uses interface in HTML5/CSS/JavaScript and 
 How will work modern operating systems compatible with this system? I'ts simple. As base specs, an modern OS will need to be writen in HTML5+Javascript, and contain a splash/boot screen for loading the system page of OS, and, obviously, the referred system page.
 
 You can start understanding an modern OS or making your own at [this project hosted on GitHub](https://github.com/DaniellMesquita/Modern-OS).
+
+> You **is** permited to edit source code for submit changes to project and/or use your own logo for put this firmware in your mainboard/device for free.
+> 
+> You **isn't** permited to create your own firmware based on the source-code of this project. Learn more at LICENSE.md file, included in the project code.
