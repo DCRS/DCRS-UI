@@ -27,3 +27,7 @@ You can start understanding an modern OS or making your own at [this project hos
 You can read the SPECS.md, and too you can read the FEATURES.md file, all included in the project.
 
 # Contributing #
+
+You can see the source code for submit your modifications, or read SPECS.md/FEATURES.md to submit your ideas/work on new codes. Too, you can edit other .md files if you think that have need.
+
+Pull requests, comments and open issues are very welcome.
