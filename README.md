@@ -22,4 +22,8 @@ You can start understanding an modern OS or making your own at [this project hos
 > 
 > All these freedoms/conditions may change in the future and you agree with this when using it.
 
+# Understanting #
+
+You can read the SPECS.md, and too you can read the FEATURES.md file, all included in the project.
+
 # Contributing #
