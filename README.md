@@ -1,8 +1,8 @@
 # <img src="/source/icon.png" align="absmiddle"> Modern "Bios"
 
 [![Join the chat at https://gitter.im/DaniellMesquita/BIOS.js](https://badges.gitter.im/DaniellMesquita/BIOS.js.svg)](https://gitter.im/DaniellMesquita/BIOS.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![PEHTML](http://developers.plasmmer.com/badges/PEHTML.svg)](https://gitter.im/DaniellMesquita/Plasmmer-UI-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Plasmmer UI Framework](http://developers.plasmmer.com/badges/Plasmmer-UI-Framework.svg)](https://gitter.im/DaniellMesquita/Plasmmer-UI-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![PEHTML](http://developers.plasmmer.com/badges/PEHTML.svg)](https://github.com/Plasmmer/PEHTML)
+[![Plasmmer UI Framework](http://developers.plasmmer.com/badges/Framework.svg)](https://github.com/Software-js/Framework.js)
 
 ----------
 # Description #
