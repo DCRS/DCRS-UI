@@ -31,7 +31,7 @@ You can start understanding an modern OS or making your own at [this project hos
 > 
 > All these freedoms/conditions may change in the future and you agree with this when using it.
 
-# Understanting #
+# Understanting more #
 
 You can read the SPECS.md, and too you can read the FEATURES.md file, all included in the project.
 
@@ -41,4 +41,6 @@ You can see the source code for submit your modifications, or read SPECS.md/FEAT
 
 Pull requests, comments and open issues are very welcome.
 
-Remember all proposed & previous names for DCRS in t[his historical "snapshot"](https://github.com/Software-js/DCRS/commit/e4c6d34990c5446b03a3a721c8b590630252ef3c "Commit with "Possible names.md", in which have this "citation".").
+# Names #
+
+Remember all proposed & previous names for DCRS in [this historical "snapshot"](https://github.com/Software-js/DCRS/commit/e4c6d34990c5446b03a3a721c8b590630252ef3c "Commit with "Possible names.md", in which have this "citation".").
