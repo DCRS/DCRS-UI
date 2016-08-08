@@ -7,6 +7,12 @@
 ----------
 # Description #
 
+Describe DCRS is like describing the sensation of sex. But I can explain in a human-understandable way! Imagine a world when the BIOS we know and OS are merged. Then we have the DCRS. Imagine the OS we know running in a environment and only doing settings for our work ecosystem while DCRS do the advanced settings. Then we have WS.js running on DCRS. For final user the sensation is that DCRS is the BIOS and WS.js the operating system (OS). But technically DCRS is the OS and WS.js the work system (WS)!
+
+DCRS is a achronym for Device Checker/Runtime System. This is a new concept, when operating system (DCRS) do the advanced settings and WS the basic ambient for work. DCRS for settings, WS.js for your work!
+
+DCRS is modern, open-source and the world's first runtime environment for run [WS.js - The template Work System](https://github.com/Software-js/WS.js "Click here to know more how WS.js works and get started how make your own WS.").
+
 When start the device, this firmware/runtime/kernel/system will do the first work like a BIOS does: verifying all device's components.
 
 **But this is very different than a BIOS!** When finish the hardware check, this system will search for operating systems installed in all connected storage devices. Then, this kernel will run an single OS installed or show an boot-selector screen for selecting OS to run from each storage device, and will run the interface of OS working as an kernel/runtime. With this, you will can easily bootoff OS A and go to OS B, with multi-OS running at the same time! This "BIOS" will can adapt the code/design for work in all possible resolutions, for an multi-device connected future. You can know more at SPECS.md file, included in this project.
