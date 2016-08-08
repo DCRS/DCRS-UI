@@ -11,4 +11,4 @@
 > 
 > You can contribute with this source/file by submiting new possible names as suggestion.
 > 
-> Please, comment with your oppinion about the names ![:)](http://i.imgur.com/Bq7Gq5W.png?raw=true ":)")
+> Please, comment with your opinion about the names ![:)](http://i.imgur.com/Bq7Gq5W.png?raw=true ":)")
