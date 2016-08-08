@@ -32,3 +32,5 @@ You can read the SPECS.md, and too you can read the FEATURES.md file, all includ
 You can see the source code for submit your modifications, or read SPECS.md/FEATURES.md to submit your ideas/work on new codes. Too, you can edit other .md files if you think that have need.
 
 Pull requests, comments and open issues are very welcome.
+
+Remember all proposed & previous names for DCRS in t[his historical "snapshot"](https://github.com/Software-js/DCRS/commit/e4c6d34990c5446b03a3a721c8b590630252ef3c "Commit with "Possible names.md", in which have this "citation".").
