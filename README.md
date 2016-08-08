@@ -25,7 +25,7 @@ DCRS will have 2 versions. You can call DCRS as a firmware (in your EFI version)
 
 You can start understanding an modern OS or making your own at [this project hosted on GitHub](https://github.com/DaniellMesquita/Modern-OS).
 
-> You **is** permited to edit this source code for submit changes to project and/or use your own logo for put this firmware in your mainboard/device for free. Commercial usage of this firmware in your products **is allowed**.
+> You **is** permited to edit this source code for submit changes to project and/or use your own logo for put this firmware in your mainboard/device for free. Commercial usage of this firmware in your products **is allowed**. We don't charge fees for using DCRS (this is a non-profit product).
 > 
 > You **isn't** permited to create your own project based on the source-code of this project. Learn more at LICENSE.md file, included in the project code.
 > 
