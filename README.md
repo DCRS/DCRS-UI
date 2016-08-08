@@ -13,13 +13,15 @@ DCRS is a achronym for Device Checker/Runtime System. This is a new concept, whe
 
 DCRS is modern, open-source and the world's first runtime environment for run [WS.js - The template Work System](https://github.com/Software-js/WS.js "Click here to know more how WS.js works and get started how make your own WS.").
 
-When start the device, this firmware/runtime/kernel/system will do the first work like a BIOS does: verifying all device's components.
+When start the device, this firmware/runtime/system will do the first work like a BIOS does: verifying all device's components.
 
-**But this is very different than a BIOS!** When finish the hardware check, this system will search for operating systems installed in all connected storage devices. Then, this kernel will run an single OS installed or show an boot-selector screen for selecting OS to run from each storage device, and will run the interface of OS working as an kernel/runtime. With this, you will can easily bootoff OS A and go to OS B, with multi-OS running at the same time! This "BIOS" will can adapt the code/design for work in all possible resolutions, for an multi-device connected future. You can know more at SPECS.md file, included in this project.
+**But this is very different than a BIOS!** When finish the hardware check, this system will search for work systems installed in all connected storage devices. Then, this kernel will run an single WS installed or show an boot-selector screen for selecting WS to run from each storage device, and will run the interface of WS working as an runtime. With this, you will can easily bootoff WS A and go to WS B, with multi-WS running at the same time! This "BIOS" will can adapt the code/design for work in all possible resolutions, for an multi-device connected future. You can know more at SPECS.md file, included in this project.
 
-Yes, this firmware is an kernel/runtime that uses interface in HTML5/CSS/JavaScript and compatible only with modern operating systems compatible with the technology of this firmware.
+Yes, this firmware is an runtime that uses interface in HTML5/CSS/JavaScript and compatible only with work systems, that compatible with the technology of this firmware.
 
-How will work modern operating systems compatible with this firmware? I'ts simple. As base specs, an modern OS will need to be writen in HTML5+Javascript, and contain a splash/boot screen for loading the system page of OS, and, obviously, the referred system page. All the modern OS will use Javascript codes with commands that will be recognized by the kernel of this firmware.
+Codes that manipulate hardware will be sent from WS to DCRS, and from DCRS to Node.js (NW.js).
+
+DCRS will have 2 versions. You can call DCRS as a firmware (in your EFI version) or not (in its OS version). The OS version isn't hard and I can do. The EFI version is the most complex and I'll need help to do it, but will be the most modern and reliable. You can call DCRS as system/runtime/environment in any of his versions.
 
 You can start understanding an modern OS or making your own at [this project hosted on GitHub](https://github.com/DaniellMesquita/Modern-OS).
 
