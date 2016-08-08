@@ -1,11 +1,11 @@
 > Note: If you are searching for features, you can read the FEATURES.md file included in this project.
 
-# Modern "Bios" specs
+# DCRS specs
 
-- Search for operating systems in all connected storage devices;
-- Show all operating systems in all devices for user selection;
+- Search for work systems in all connected storage devices;
+- Show all work systems in all devices for user selection;
 - Can boot from other device;
-- Work as an runtime for HTML5 modern operating systems;
-- Recognition of an upcomming code-key for open firmware's configuration interface directly from OS;
-- Can run multi-OS at same time and altern between OS;
-- Can work in all possible resolutions, like smartwatchs, smartphones, tablets, notebooks, PCs, Wall Clocks, TVs, etc.
+- Work as an runtime for HTML5 modern work systems;
+- Recognition of an upcomming code-key for open firmware's configuration interface directly from WS;
+- Can run multi-WS at same time and altern between WS;
+- Can work in all possible resolutions; like smartwatchs, smartphones, tablets, notebooks, PCs, Wall Clocks, TVs, etc.
