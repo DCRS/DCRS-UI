@@ -8,3 +8,4 @@ ul.tabs li a{float:left;margin-left:10px;border-radius:5px 5px 0 0;padding:3px 1
 ul.tabs li a:hover{background:rgba(255, 255, 255, 0.5);padding:7px 10px 2px 10px;height:20px;bottom:-14px}
 ul.tabs li.current a{background:#fff;color:#1382DA;padding:8px 10px 6px 10px;height:initial;bottom:-10px}
 .tab-content{clear:both;display:block;margin-top:60px}
+#tabc1 #navmenu {height: 44px; border-bottom: 1px solid}
