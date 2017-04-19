@@ -13,3 +13,27 @@ a:-webkit-any-link{text-decoration:none;cursor:inherit;color:inherit;}
     font-size: 270px;
     filter: opacity(0.5);
 }
+.setcard {
+    width: 40%;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background: #fff;
+    border: 1px solid #1382DA;
+    border-radius: 5px;
+    color: #699AFF;
+}
+.setcard .icon {
+    width: 40px;
+    font-size: 40px;
+    padding: 5px 10px 5px 10px;
+    display: inline-block;
+    margin: 0;
+}
+.setcard .content {
+    display: inline-block;
+}
+.setcard .content h3 {
+    margin: 0;
+    position: relative;
+}
