@@ -11,7 +11,7 @@
         "direct_write": true,
         "web_security": true,
         "node_integration": true,
-        "plugins": false,
+        "plugins": true,
         "zoom_factor": 100,
         "text_areas_are_resizable": true,
         "webaudio": true,
