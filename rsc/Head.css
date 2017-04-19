@@ -1,0 +1,10 @@
+.topbar-current{height60px;floatleft}
+.topbar-currenthover{backgroundrgba(51, 51, 51, 0.5)}
+.topbar-currentactive{filteropacity(0.5)}
+.icon{width45px;height45px;margin-top7px;margin-left10px}
+.navlocal{color#fff;positionrelative;top-15px;margin-left9px;margin-right10px;font-weightbold;font-size18px}
+ul{list-stylenone;positionrelative}
+ul.tabs li a{floatleft;margin-left10px;border-radius5px 5px 0 0;padding3px 10px 8px 10px;height14px;positionrelative;bottom-18px;backgroundtransparent;border1px solid #fff;border-bottomnone;color#fff;transitionall 0.2s linear}
+ul.tabs li ahover{backgroundrgba(255, 255, 255, 0.5);padding7px 10px 2px 10px;height20px;bottom-14px}
+ul.tabs li.current a{background#fff;color#1382DA;padding8px 10px 6px 10px;heightinitial;bottom-10px}
+.tab-content{clearboth;displayblock;margin-top60px}
