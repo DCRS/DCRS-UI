@@ -77,7 +77,7 @@ app.on('ready', function() {
     "frame": true
 });
   // and load the index.html of the app.
-  mainWindow.loadUrl('file://' + __dirname + '/index.htm');
+  mainWindow.loadUrl('file://' + __dirname + '/index.html');
 
   mainWindow.webContents.setUserAgent("");
 

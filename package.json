@@ -1,6 +1,6 @@
 {
     "main": "main.js",
-    "main_html": "index.htm",
+    "main_html": "index.html",
     "web": {
         "blink_features": "",
         "node_integration": true,
