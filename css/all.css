@@ -19,6 +19,7 @@ a:-webkit-any-link{text-decoration:none;cursor:inherit;color:inherit;}
     position: relative;
     top: 10px;
     left: 10px;
+	margin-bottom: 10px;
     background: #fff;
     border: 1px solid #1382DA;
     border-radius: 5px;
