@@ -1,6 +1,6 @@
 
 
-/* ---- /root/rsc/head.coffee ---- */
+/* ---- /root/rsc/Head.coffee ---- */
 
 
 
