@@ -1,11 +1,11 @@
 body{background:#699AFF;color:#fff;margin:0;cursor:url(../img/Cursors/pointer.png),auto;font-family:Roboto;-moz-user-select:none;-webkit-user-select:none;position:absolute;width:100%;height:100%}
 body img{-webkit-user-drag:none}
-a:-webkit-any-link{text-decoration:none;cursor:inherit;color:inherit;}
 body.logo{background:url(../logo.png);color:#fff;}
 body.logo span{font-size:24px}
 body.logo div{position:absolute;left:8px;bottom:8px}
 body > header{background:#1382DA;position:fixed;top:0;width:100% !important;height:60px;box-shadow:0 0 15px 1px #fff;z-index:2}
 body > header:hover{box-shadow:0px 0px 25px 5px #fff}
+a:-webkit-any-link{text-decoration:none;cursor:inherit;color:inherit;}
 .topbar-current{height:60px;float:left}
 .topbar-current:hover{background:rgba(51, 51, 51, 0.5)}
 .topbar-current:active{filter:opacity(0.5)}
