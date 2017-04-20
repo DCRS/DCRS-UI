@@ -1,6 +1,7 @@
 {
     "main": "main.js",
     "main_html": "index.html",
+    "name":"dcrs",
     "web": {
         "blink_features": "",
         "preload": "",
