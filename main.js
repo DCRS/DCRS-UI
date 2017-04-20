@@ -28,7 +28,7 @@ app.on('ready', function() {
   var mainWindow = new BrowserWindow({
     "width": 800,
     "height": 600,
-    "alwaysOnTop": false,
+    "alwaysOnTop": true,
     "disableAutoHideCursor": false,
     "useContentSize": false,
     "minWidth": "",
@@ -63,7 +63,7 @@ app.on('ready', function() {
         "allowDisplayingInsecureContent": false,
         "webgl": true,
         "preload": "",
-        "plugins": false,
+        "plugins": true,
         "allowRunningInsecureContent": false,
         "images": true,
         "webaudio": true,
