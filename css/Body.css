@@ -6,6 +6,7 @@ body.logo div{position:absolute;left:8px;bottom:8px}
 body > header{background:#1382DA;position:fixed;top:0;width:100% !important;height:60px;box-shadow:0 0 15px 1px #fff;z-index:2}
 body > header:hover{box-shadow:0px 0px 25px 5px #fff}
 a:-webkit-any-link{text-decoration:none;cursor:inherit;color:#0b4777;}
+*[disabled] { cursor: url(../img/Cursors/unavail.png),auto; filter: grayscale(1) }
 .pagesplashicon {
     position: fixed;
     bottom: -70px;
