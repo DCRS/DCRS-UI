@@ -1,5 +1,3 @@
-
-
 /* ---- /root/rsc/Head.coffee ---- */
 
 

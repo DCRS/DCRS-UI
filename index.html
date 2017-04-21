@@ -8,10 +8,17 @@
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script>window.$ = window.jQuery = require('./js/jquery.min.js');</script>
 </head>
-<body>
 <script type="text/javascript" src="js/ZeroFrame.js"></script>
 <script>
-
+window.onload=function() {
+if(window.isElectron=typeof process!="undefined") {
+ //Custom event 
+} else {
+window.location = "/";
+}
+}
+</script>
+<script>
 class Page extends ZeroFrame {
 	setSiteInfo(site_info) {
 		var out = document.getElementById("out")
