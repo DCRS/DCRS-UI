@@ -62,7 +62,7 @@ page = new Page()
 </ul>
 </nav>
 <tab id="tabi1" class="tab-content clearfix" style="display: block;"><center><table style="width: 238px;">
-<tbody>
+<tbody disabled>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 197px;"><i class="fa fa-building-o" aria-hidden="true"></i> Manufacturer</td>
 <td style="height: 23px; width: 40px;">Soon</td>
@@ -198,11 +198,12 @@ page = new Page()
 </tbody>
 </table></center></tab><tab id="tabi2" class="tab-content clearfix" style="display: none;">
 <h1>DCRS - Device Checker/Runtime System</h1>
-<h2>Version: ?</h2><h2>Created in 2015 by Plasmmer.</h2>
+<h2 disabled>Version: ?</h2>
+<h2>Created in 2015 by Plasmmer.</h2>
 <h2>Developers: Plasmmer &amp; mkg20001.</h2>
 <div id="out"></div>
-<h2>Changelog:</h2>
-<ul>
+<h2 disabled>Changelog:</h2>
+<ul disabled>
 <li><p>Test</p></li>
 <li><p>Test</p></li>
 <li><p>Test</p></li>
@@ -213,37 +214,43 @@ page = new Page()
 <tab id="tabc2" class="tab-content clearfix" style="display: none;"><div class="pagesplashicon"><i class="fa fa-home" aria-hidden="true"></i></div> Soon</tab>
 <tab id="tabc3" class="tab-content clearfix" style="display: block;">
 <div class="pagesplashicon"><i class="fa fa-window-restore" aria-hidden="true"></i></div>
-<h2>Running work systems</h2>
-<p>No work system running yet.</p>
-<h2>Primary drive</h2>
-<select>
+<h2 disabled>Running work systems</h2>
+<p disabled>No work system running yet.</p>
+<h2 disabled>Primary drive</h2>
+<select disabled>
   <option value="drive1">SSD</option>
   <option value="drive2">Flash Drive</option>
   <option value="drive3">SD</option>
   <option value="drive4">Floppy Disk</option><option value="drive5">Hard Disk</option><option value="drive6">CD</option><option value="drive7">DVD</option><option value="drive8">Blu-Ray</option>
 </select>
-<h3>Primary WS</h3><select>
+<h3 disabled>Primary WS</h3>
+<select disabled>
   <option value="ws1">Screens</option>
   <option value="ws2">WS 2</option>
 </select><br>
-<input type="checkbox" id="enablemultiws" value="enablemultiws" checked><label for="enablemultiws"> Enable WS selector screen</label><br>(When you disable this, the primary WS will be automatically loaded)</tab>
+<input type="checkbox" id="enablemultiws" value="enablemultiws" checked disabled><label for="enablemultiws" disabled> Enable WS selector screen</label><br>(When you disable this, the primary WS will be automatically loaded)</tab>
 <tab id="tabc4" class="tab-content clearfix" style="display: none;">
 <div class="pagesplashicon"><i class="fa fa-shield" aria-hidden="true"></i></div>
-<div class="setcard"><div class="icon"><i class="fa fa-key" aria-hidden="true"></i></div><div class="content"><h3>Password</h3><a href="">Set/Change password</a> | <a href="">Encryption settings</a></div></div>
-<div class="setcard"><div class="icon"><i class="fa fa-download" aria-hidden="true"></i></div><div class="content"><h3>Updates</h3><a href="">Test</a> | <a href="">Test</a></div></div>
-<div class="setcard"><div class="icon"><i class="fa fa-laptop" aria-hidden="true"></i></div><div class="content"><h3>System</h3><a href="">Test</a> | <a href="">Test</a></div></div>
-<div class="setcard"><div class="icon"><i class="fa fa-plug" aria-hidden="true"></i></div><div class="content"><h3>Power</h3><a href="">Test</a> | <a href="">Test</a></div></div>
+<div class="setcard" disabled><div class="icon"><i class="fa fa-key" aria-hidden="true"></i></div><div class="content"><h3>Password</h3><a href="">Set/Change password</a> | <a href="">Encryption settings</a></div></div>
+<div class="setcard" disabled><div class="icon"><i class="fa fa-download" aria-hidden="true"></i></div><div class="content"><h3>Updates</h3><a href="">Test</a> | <a href="">Test</a></div></div>
+<div class="setcard" disabled><div class="icon"><i class="fa fa-laptop" aria-hidden="true"></i></div><div class="content"><h3>System</h3><a href="">Test</a> | <a href="">Test</a></div></div>
+<div class="setcard" disabled><div class="icon"><i class="fa fa-plug" aria-hidden="true"></i></div><div class="content"><h3>Power</h3><a href="">Test</a> | <a href="">Test</a></div></div>
 </tab>
 <tab id="tabc5" class="tab-content clearfix" style="display: none;"><div class="pagesplashicon"><i class="fa fa-book" aria-hidden="true"></i></div> Soon</tab>
-<tab id="tabc6" class="tab-content clearfix" style="display: block;"><div class="pagesplashicon"><i class="fa fa-sign-out" aria-hidden="true"></i></div><h2>Exit and:</h2><select><option value="exit1">Discard changes</option><option value="exit2">Save changes</option></select>
-<h2>So:</h2>
+<tab id="tabc6" class="tab-content clearfix" style="display: block;"><div class="pagesplashicon"><i class="fa fa-sign-out" aria-hidden="true"></i></div>
+<h2 disabled>Exit and:</h2>
+<select disabled>
+<option value="exit1">Discard changes</option>
+<option value="exit2">Save changes</option>
+</select>
+<h2 disabled>So:</h2>
 <input type="radio" name="exitso" id="returnws" value="exitso1" disabled=""><label for="returnws" disabled="">Return to current WS</label> 
-<br><input type="radio" name="exitso" id="sows" value="exitso2"><label for="sows">Return to WS selector screen</label>
-<br><input type="radio" name="exitso" id="soshutdown" value="exitso3"><label for="soshutdown">Shutdown</label>
-<br><input type="radio" name="exitso" id="sorestart" value="exitso4"><label for="sorestart">Restart</label>
+<br><input type="radio" name="exitso" id="sows" value="exitso2" disabled><label for="sows" disabled>Return to WS selector screen</label>
+<br><input type="radio" name="exitso" id="soshutdown" value="exitso3" disabled><label for="soshutdown" disabled>Shutdown</label>
+<br><input type="radio" name="exitso" id="sorestart" value="exitso4" disabled><label for="sorestart" disabled>Restart</label>
 <br><input type="radio" name="exitso" id="solock" value="exitso5" disabled=""><label for="solock" disabled="">Lock</label>
-
-<br><button>Do it</button></tab>
+<br><button disabled>Do it</button>
+</tab>
 <script src="js/all.js"></script>
 </body>
 </html>
