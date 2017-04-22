@@ -65,7 +65,7 @@ function createWindow () {
     "enableLargerThanScreen": false
   })
   // and load the index.html of the app.
-  mainWindow.loadUrl('http://127.0.0.1:43110/1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT/ui/')
+  mainWindow.loadURL('http://127.0.0.1:43110/1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT/ui/')
 
   // Open the DevTools.
   mainWindow.webContents.openDevTools()
