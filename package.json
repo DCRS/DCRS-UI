@@ -3,6 +3,9 @@
     "version": "0.1.0",
     "remote_debugging_port": "",
     "name": "dcrs",
+    "scripts": {
+      "start": "electron ."
+    },
     "ppapi_flash_path": "",
     "web_preferences": {},
     "inject_js_start": "",
