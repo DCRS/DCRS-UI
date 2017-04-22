@@ -54,3 +54,11 @@ jQuery(document).ready(function($){
 			}
     	}
 });
+
+window.onload=function() {
+if(window.isElectron=typeof process!="undefined") {
+ //Custom event 
+} else {
+$(`#browserdialog`).toggle();return false;
+}
+}

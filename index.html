@@ -10,15 +10,6 @@
 </head>
 <script type="text/javascript" src="js/ZeroFrame.js"></script>
 <script>
-window.onload=function() {
-if(window.isElectron=typeof process!="undefined") {
- //Custom event 
-} else {
-window.location = "/";
-}
-}
-</script>
-<script>
 class Page extends ZeroFrame {
 	setSiteInfo(site_info) {
 		var out = document.getElementById("out")
@@ -260,5 +251,7 @@ page = new Page()
 <br><button disabled>Do it</button>
 </tab>
 <script src="js/all.js"></script>
+<div id="browserdialog"><h1>This page can be accessed only in DCRS. Please download it <a href="/">by visiting our site</a>.</h1>
+<h2>If you is an developer, just remove this div element (id browserdialog) via inspector.</h2></div>
 </body>
 </html>
