@@ -1,0 +1,4 @@
+Universal:
+
+* "Touch/Press any key/Click for go to Bios' settings" dinamic message on index.htm;
+* Generic button key for open Device's Settings;

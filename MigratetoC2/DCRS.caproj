@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>DCRS</name>
+    <description></description>
+    <version>1.0.0.0</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website>http://</author-website>
+    <app-id>com.mycompany.myapp</app-id>
+    <unique-id>1vn32wn18c581</unique-id>
+    <saved-with-version>24400</saved-with-version>
+    <used-plugins>
+        <plugin author="PlayLive" id="HTML_iFrame" version="1.399999976">HTML | iFrame</plugin>
+        <plugin author="Armaldio" id="armaldio_electron" version="1">Electron</plugin>
+    </used-plugins>
+    <used-behaviors />
+    <used-effects />
+    <configurations>
+        <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
+    </configurations>
+    <window-size>
+        <width>854</width>
+        <height>480</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <preview-effects>1</preview-effects>
+    <use-loader-layout>0</use-loader-layout>
+    <configuration-settings>
+        <prop name="Clear background">Yes</prop>
+        <prop name="Downscaling">Medium quality</prop>
+        <prop name="Enable WebGL">On</prop>
+        <prop name="Fullscreen in browser">Scale outer</prop>
+        <prop name="Fullscreen scaling">High quality</prop>
+        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Orientations">Any</prop>
+        <prop name="Pause on unfocus">No</prop>
+        <prop name="Physics engine">Box2D asm.js</prop>
+        <prop name="Preload sounds">Yes</prop>
+        <prop name="Preview browser">Custom</prop>
+        <prop name="Sampling">Linear</prop>
+        <prop name="Use high-DPI display">Yes</prop>
+    </configuration-settings>
+    <object-folder>
+        <object-type name="HTMLIFrame" sid="889557706835160">
+            <plugin id="HTML_iFrame" />
+        </object-type>
+        <object-type name="Electron" sid="858437920542403">
+            <plugin id="armaldio_electron" />
+        </object-type>
+    </object-folder>
+    <families />
+    <layout-folder>
+        <layout>Layout 1.xml</layout>
+    </layout-folder>
+    <event-folder>
+        <event-sheet>Event sheet 1.xml</event-sheet>
+    </event-folder>
+    <global-instances>
+        <global-instance type="Electron" uid="1" />
+    </global-instances>
+    <sounds-folder />
+    <music-folder />
+    <files-folder>
+        <file-folder name="Icons">
+            <file name="icon-16.png" />
+            <file name="icon-32.png" />
+            <file name="icon-114.png" />
+            <file name="icon-128.png" />
+            <file name="icon-256.png" />
+            <file name="loading-logo.png" />
+        </file-folder>
+        <file-folder name="js">
+            <file name="all.js" />
+        </file-folder>
+        <file-folder name="css">
+            <file name="all.css" />
+            <file name="font.css" />
+            <file name="font.eot" />
+            <file name="font.ttf" />
+            <file name="font.woff" />
+            <file name="font.woff2" />
+        </file-folder>
+        <file-folder name="fonts">
+            <file-folder name="Roboto">
+                <file name="Apache License.txt" />
+                <file name="font2.css" />
+                <file name="roboto-cyrillic.woff2" />
+                <file name="roboto-cyrillicext.woff2" />
+                <file name="roboto-greek.woff2" />
+                <file name="roboto-greekext.woff2" />
+                <file name="roboto-latin.woff2" />
+                <file name="roboto-latinext.woff2" />
+                <file name="roboto-vietnamese.woff2" />
+            </file-folder>
+            <file name="FontAwesome.otf" />
+            <file name="fontawesome-webfont.eot" />
+            <file name="fontawesome-webfont.ttf" />
+            <file name="fontawesome-webfont.woff" />
+            <file name="fontawesome-webfont.woff2" />
+        </file-folder>
+        <file-folder name="img">
+            <file-folder name="Cursors">
+                <file name="busy.gif" />
+                <file name="ew.png" />
+                <file name="grab.png" />
+                <file name="grabbing.png" />
+                <file name="help.png" />
+                <file name="link.png" />
+                <file name="move.png" />
+                <file name="nesw.png" />
+                <file name="noname.png" />
+                <file name="ns.png" />
+                <file name="nwse.png" />
+                <file name="pen.png" />
+                <file name="pointer.png" />
+                <file name="text.png" />
+                <file name="unavail.png" />
+                <file name="up.png" />
+                <file name="working.gif" />
+                <file name="zoom-in.png" />
+                <file name="zoom-out.png" />
+            </file-folder>
+        </file-folder>
+        <file-folder name="node_modules">
+            <file name="fill.txt" />
+        </file-folder>
+        <file-folder name="rsc">
+            <file-folder name="themes">
+                <file name="command-prompt.css" />
+            </file-folder>
+        </file-folder>
+        <file name="favicon.png" />
+        <file name="icon.png" />
+    </files-folder>
+</c2project>
