@@ -5,6 +5,7 @@
 - electron app icon!
 - tab system (with its distinct animation) as part of FrameworkJS UI
 
+- move to Construct 2 and merge files of "." and "MigratetoC2" 
 - standard format for HTML5 OSes/WS' (quickstarted by Floflis Screens DCRS edition - with davidExplorer+WFS, davidLauncher and other davidApps - and Altaica)
 - list of drives, loop into them to find HTML OSes/WS', list drives and HTML5 OSes/WS' at Boot tab
 - Boot tab: set Primary Drive
@@ -17,4 +18,7 @@
 - implement v86 (init from git before adding to FLIC build)
 - v86: support loading current OSes, and keep Floflis-Windows integration
 
+- WS Store (including x86 OSes!) integrated with UniStore
+
 - implement FirefoxOS/KaiOS simulators (as optional package)
+- FirefoxOS/KaiOS/others at WS Store
