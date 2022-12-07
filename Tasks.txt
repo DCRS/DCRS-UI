@@ -12,7 +12,9 @@
 - Boot tab: working "Enable WS selector screen" button
 - Implement Web3Updater and also support manual update
 - update README.md and sites, and clarify informations about its purpose
+- deploy as kiosk app at /media/daniell/ceb6a175-7104-43d8-8064-48e6ef72cd27/dcrs then first build
+
 - implement v86 (init from git before adding to FLIC build)
 - v86: support loading current OSes, and keep Floflis-Windows integration
+
 - implement FirefoxOS/KaiOS simulators (as optional package)
-- deploy as kiosk app at /media/daniell/ceb6a175-7104-43d8-8064-48e6ef72cd27/dcrs then first build
